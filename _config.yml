@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: mikie的博客
+title: mikie
 description: > # this means to ignore newlines until "baseurl:"
   所有博文由mikie社区收集整理,供网友借鉴学习,若涉及版权,请联系mikie删除
 baseurl: ""
