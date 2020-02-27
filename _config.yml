@@ -25,7 +25,8 @@ paginate: 5
 # MatJek specific configurations
 github_profile: "https://mikie-github.github.io/"
 user: "mikie"
-user_email: "blog.mikieit.com"
+#user_email: "mikieit.com"
+user_email: " "
 # contact_url: "https://goo.gl/tVljbV"
 # google_tracking_id: "UA-96359860-1"
 # google_site_verification: "UA-96359860-1"
